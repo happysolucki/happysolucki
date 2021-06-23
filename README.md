@@ -1,6 +1,7 @@
 ### Hi there, I'm Brandon 👋
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-JAVASCRIPT-f7df1e?logo=javascript&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-SASS-CD6799?logo=sass&logoColor=white&style=for-the-badge"/>
 </p>
