@@ -1,4 +1,9 @@
 ### Hi there, I'm Brandon 👋
+<p align="center">
+  <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+  •
+  <b><a href="https://www.twitter/happysolucki">Twitter</a></b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
