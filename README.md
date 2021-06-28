@@ -2,7 +2,7 @@
 <p align="center">
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
   •
-  <b><a href="https://www.twitter/happysolucki">Twitter</a></b>
+  <b><a href="https://www.twitter.com/happysolucki">Twitter</a></b>
 </p>
 
 <p align="center">
