@@ -1,4 +1,4 @@
-### Hi there, I'm Brandon 👋
+<h3 align="center"> Hi there, I'm Brandon 👋 </h3>
 <p align="center">
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
   •
