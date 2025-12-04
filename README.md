@@ -7,8 +7,7 @@ I'm Brandon, a full-stack developer based in Memphis, TN that's committed to cra
 - 🖥 Languages I use often: JavaScript / Node.js, TypeScript, HTML, CSS, Python, Lua
 - 🖼 Frameworks I like using: Next.js, React, Svelte, Django, Express, Prisma, Mongoose, Tailwind CSS
 - 🌱 Learning about **Data Structures**, **Design Patterns**, and **UX Design**
-- 📫 Reach me: [Twitter](https://twitter.com/happysolucki) and [LinkedIn](https://www.linkedin.com/in/brandonkeefer/)
-- ⚡ Fun fact: My favorite band is Sweet Trip
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brandonkeefer/)
 <!-- <p align="center">
   <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
   •
